@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **shamimreja101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
