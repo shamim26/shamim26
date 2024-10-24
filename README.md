@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I’m Shamim—a web developer working with Node.js to turn my ideas into real web projects!</h2>
+<h2 align="center">Hi, I’m Shamim — a web developer working with Node.js to turn my ideas into real web projects!</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Tech stacks:</p>
+<h4 align="left">Tech stacks:</h4>
 
 ###
 
@@ -69,7 +69,8 @@
 ###
 
 <br clear="both">
-
+<img height='30'/>
+<h4 align="left">Stats:</h4>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shamim26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
