@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I’m Shamim — a web developer working with Node.js to turn my ideas into real web projects!</h2>
+<h2 align="center">Hi, I’m Shamim — a web developer</h2>
 
 ###
 
